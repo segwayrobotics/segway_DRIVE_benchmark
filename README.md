@@ -5,6 +5,6 @@ This repo is for supporting the [Segway Drive Benchmark](https://drive.segwayrob
 folder| info.
 ---|---
 /configs | Using for run ROVOILI (check homepage->OVERVIEW->Quick start)
-/scripts | modified scripts for evaluation/
+/scripts | modified scripts for evaluation ATE and RPE
 
 
